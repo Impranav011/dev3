@@ -1,0 +1,214 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopeshoes.com</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+      <!-- custom css file link  -->
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+
+
+
+
+
+
+<!-- header section starts  -->
+
+<header>
+
+    <div id="menu-bar" class="fas fa-bars"></div>
+
+    <a href="#" class="logo">SHOPSHOES.COM</a>
+
+    <nav class="navbar">
+        <a href="#home">home</a>
+ <a href="C:\Users\PRANAV KADAM\Desktop\Shoes Website\Mens Shoes\Mens Shoes.html">Men's</a>
+ <a href="C:\Users\PRANAV KADAM\Desktop\Shoes Website\Womens Shoes\Womens Shoes.html">Women's</a>
+ <a href="C:\Users\PRANAV KADAM\Desktop\Shoes Website\Womens Shoes\Womens Shoes.html">Kid's</a>
+        <a href="#products">products</a>
+        <a href="#featured">featured</a>
+        <a href="#review">Trusted Partners</a>
+        <a href="">review</a>
+    </nav>
+
+    <div class="icons">
+        <a href="#" class="fas fa-heart"></a>
+        <a href="#" class="fas fa-shopping-cart"></a>
+        <a href="C:\Users\PRANAV KADAM\Desktop\Shoes Website\Login Form\Login\Login form.html" class="fas fa-user"></a></p> 
+ </div>
+<br>
+
+
+
+<div class="flip-box">
+    <div class="flip-box-inner">
+    <div class="flip-box-front">
+    <img src="C:\Users\PRANAV KADAM\Desktop\New\banner1.jpg" style=width="500" height="500">
+     <div class="flip-box-back">
+    <img src="C:\Users\PRANAV KADAM\Desktop\New\banner1.jpg" style=width="500" height="500">
+     
+    </div>
+  </div>
+
+</div>
+<br>
+
+
+
+<!-- products section starts  -->
+
+<section class="products" id="products">
+
+    <h1 class="heading"> latest <span>products</span> </h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-share"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="images/product-1.png" alt="">
+            <div class="content">
+                <h3>Downshifter 10</h3>
+                <div class="price">7,000<span>7,999</span></div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <a href="#" class="btn">add to cart</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-share"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="images/product-2.png" alt="">
+            <<div class="content">
+                <h3>Revolution 4 </h3>
+                <div class="price">5,000 <span>5,999</span></div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <a href="#" class="btn">add to cart</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-share"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="images/product-3.png" alt="">
+            <div class="content">
+                <h3>Revolution 5 </h3>
+                <div class="price">6,000 <span>6,999</span></div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <a href="#" class="btn">add to cart</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-share"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="images/product-4.png" alt="">
+            <div class="content">
+                <h3>Renew Elevate </h3>
+                <div class="price">4,000 <span>4,999</span></div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <a href="#" class="btn">add to cart</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-share"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="images/product-5.png" alt="">
+            <div class="content">
+                <h3>Quest 4</h3>
+                <div class="price">3,000 <span>3,999</span></div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <a href="#" class="btn">add to cart</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="icons">
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-share"></a>
+                <a href="#" class="fas fa-eye"></a>
+            </div>
+            <img src="images/product-6.png" alt="">
+            <div class="content">
+                <h3>Zoom Winflo 7 </h3>
+                <div class="price">4,000 <span>4,999</span></div>
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="far fa-star"></i>
+                </div>
+                <a href="#" class="btn">add to cart</a>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+
+<!-- products section ends -->
+
+
+
+
+
+
+<script src="script.js">
+</script>
+    
